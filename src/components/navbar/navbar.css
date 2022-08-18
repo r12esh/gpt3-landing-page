@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 2rem 6rem;
+  padding: 1.2rem 6rem;
 }
 
 .gpt3__navbar-links {
@@ -55,7 +55,7 @@
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1.3rem;
   color: #ffffff;
   background: #ff4820;
   font-family: var(--font-family);
