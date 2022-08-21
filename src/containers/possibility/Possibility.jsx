@@ -10,7 +10,7 @@ const Possibility = () => {
         background: `url(${layeredPeaks})`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
-        backgroundPosition: "center"
+        backgroundPosition: "center",
       }}
       className="gpt3__possibility section__padding"
       id="possibility"
