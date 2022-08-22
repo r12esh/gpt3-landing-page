@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# gpt3-landing-page
 
 A fully responsive landing page site for gpt3 made using React. I thank Adrian from [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery) for his tutorial on modern UI landing page.
 
